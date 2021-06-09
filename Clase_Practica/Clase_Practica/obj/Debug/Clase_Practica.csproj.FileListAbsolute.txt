@@ -1,0 +1,12 @@
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\bin\Debug\Clase_Practica.exe.config
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\bin\Debug\Clase_Practica.exe
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\bin\Debug\Clase_Practica.pdb
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\obj\Debug\Clase_Practica.csprojAssemblyReference.cache
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\obj\Debug\Clase_Practica.Form1.resources
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\obj\Debug\Clase_Practica.Properties.Resources.resources
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\obj\Debug\Clase_Practica.csproj.GenerateResource.cache
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\obj\Debug\Clase_Practica.csproj.CoreCompileInputs.cache
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\obj\Debug\Clase_Practica.exe
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\obj\Debug\Clase_Practica.pdb
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\obj\Debug\Clase_Practica.FrmEmpleado.resources
+C:\Users\jaguilar\source\repos\Clase_Practica\Clase_Practica\obj\Debug\Clase_Practica.AddDialog.resources
